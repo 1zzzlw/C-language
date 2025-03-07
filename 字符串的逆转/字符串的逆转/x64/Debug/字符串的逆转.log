@@ -1,0 +1,4 @@
+﻿  1.c
+E:\Visual Studio 编程软件\Code\C语言代码练习\字符串的逆转\字符串的逆转\1.c(38,2): warning C4013: “gets”未定义；假设外部返回 int
+E:\Visual Studio 编程软件\Code\C语言代码练习\字符串的逆转\字符串的逆转\1.c(39,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字符串的逆转.vcxproj -> E:\Visual Studio 编程软件\Code\C语言代码练习\字符串的逆转\x64\Debug\字符串的逆转.exe
