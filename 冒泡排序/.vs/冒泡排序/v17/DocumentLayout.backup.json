@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12274BD3-C0BD-4462-B935-4D5D4EC9A6FB}|\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F.vcxproj|E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12274BD3-C0BD-4462-B935-4D5D4EC9A6FB}|\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F.vcxproj|solutionrelative:\u5192\u6CE1\u6392\u5E8F\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274BD3-C0BD-4462-B935-4D5D4EC9A6FB}|\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F.vcxproj|E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E00.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12274BD3-C0BD-4462-B935-4D5D4EC9A6FB}|\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F.vcxproj|solutionrelative:\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E00.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274BD3-C0BD-4462-B935-4D5D4EC9A6FB}|\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F.vcxproj|E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12274BD3-C0BD-4462-B935-4D5D4EC9A6FB}|\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F.vcxproj|solutionrelative:\u5192\u6CE1\u6392\u5E8F\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274BD3-C0BD-4462-B935-4D5D4EC9A6FB}|\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F.vcxproj|E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E8C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12274BD3-C0BD-4462-B935-4D5D4EC9A6FB}|\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F.vcxproj|solutionrelative:\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E8C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.c",
+              "DocumentMoniker": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\4.c",
+              "RelativeDocumentMoniker": "\u5192\u6CE1\u6392\u5E8F\\4.c",
+              "ToolTip": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\4.c",
+              "RelativeToolTip": "\u5192\u6CE1\u6392\u5E8F\\4.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T12:59:14.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u6539\u8FDB\u4E8C.c",
+              "DocumentMoniker": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E8C.c",
+              "RelativeDocumentMoniker": "\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E8C.c",
+              "ToolTip": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E8C.c",
+              "RelativeToolTip": "\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E8C.c",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T11:32:53.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1.c",
+              "DocumentMoniker": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\1.c",
+              "RelativeDocumentMoniker": "\u5192\u6CE1\u6392\u5E8F\\1.c",
+              "ToolTip": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\1.c",
+              "RelativeToolTip": "\u5192\u6CE1\u6392\u5E8F\\1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-21T09:08:46.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6539\u8FDB\u4E00.c",
+              "DocumentMoniker": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E00.c",
+              "RelativeDocumentMoniker": "\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E00.c",
+              "ToolTip": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5192\u6CE1\u6392\u5E8F\\\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E00.c",
+              "RelativeToolTip": "\u5192\u6CE1\u6392\u5E8F\\\u6539\u8FDB\u4E00.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T11:27:22.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

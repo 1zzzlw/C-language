@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B07E1D-927A-454F-90FB-EE7639DD8D9A}|\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217.vcxproj|E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u8FED\u4EE3\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7B07E1D-927A-454F-90FB-EE7639DD8D9A}|\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217.vcxproj|solutionrelative:\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u8FED\u4EE3\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B07E1D-927A-454F-90FB-EE7639DD8D9A}|\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217.vcxproj|E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u9012\u5F52\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7B07E1D-927A-454F-90FB-EE7639DD8D9A}|\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217.vcxproj|solutionrelative:\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u9012\u5F52\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u8FED\u4EE3\u6CD5.c",
+              "DocumentMoniker": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u8FED\u4EE3\u6CD5.c",
+              "RelativeDocumentMoniker": "\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u8FED\u4EE3\u6CD5.c",
+              "ToolTip": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u8FED\u4EE3\u6CD5.c",
+              "RelativeToolTip": "\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u8FED\u4EE3\u6CD5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-26T13:18:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u9012\u5F52\u6CD5.c",
+              "DocumentMoniker": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u9012\u5F52\u6CD5.c",
+              "RelativeDocumentMoniker": "\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u9012\u5F52\u6CD5.c",
+              "ToolTip": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u9012\u5F52\u6CD5.c",
+              "RelativeToolTip": "\u6590\u6CE2\u90A3\u5951\u6570\u5217\\\u9012\u5F52\u6CD5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-24T13:15:00.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

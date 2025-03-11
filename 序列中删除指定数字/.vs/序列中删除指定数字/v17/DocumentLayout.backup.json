@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDCCDB1-FF0F-44F3-B0A8-8FFB9F7ECA6A}|\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57.vcxproj|E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FDCCDB1-FF0F-44F3-B0A8-8FFB9F7ECA6A}|\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57.vcxproj|solutionrelative:\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDCCDB1-FF0F-44F3-B0A8-8FFB9F7ECA6A}|\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57.vcxproj|E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FDCCDB1-FF0F-44F3-B0A8-8FFB9F7ECA6A}|\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57.vcxproj|solutionrelative:\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\test.c",
+              "RelativeDocumentMoniker": "\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\test.c",
+              "ToolTip": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\test.c",
+              "RelativeToolTip": "\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\test.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-21T08:44:38.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\main.c",
+              "RelativeDocumentMoniker": "\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\main.c",
+              "ToolTip": "E:\\Visual Studio \u7F16\u7A0B\u8F6F\u4EF6\\Code\\\u7B97\u6CD5\u7ECF\u5178\u95EE\u9898\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\main.c",
+              "RelativeToolTip": "\u5E8F\u5217\u4E2D\u5220\u9664\u6307\u5B9A\u6570\u5B57\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-21T08:10:25.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
