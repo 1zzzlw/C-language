@@ -1,0 +1,3 @@
+﻿  test.c
+E:\Visual Studio 编程软件\Code\C语言代码练习\商店\商店\test.c(23,16): warning C4477: “printf”: 格式字符串“%.2lf”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  商店.vcxproj -> E:\Visual Studio 编程软件\Code\C语言代码练习\商店\x64\Debug\商店.exe
